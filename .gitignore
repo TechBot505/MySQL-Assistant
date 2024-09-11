@@ -1,3 +1,4 @@
 /sqlenv
 /.env
 /api/__pycache__
+__pycache__
